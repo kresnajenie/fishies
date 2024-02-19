@@ -1,0 +1,11 @@
+/Users/kjenie/Programming/fishies/be/fisheyes/target/debug/deps/libascii-d93ba953280472f3.rmeta: /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/lib.rs /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/ascii_char.rs /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/ascii_str.rs /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/ascii_string.rs /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/free_functions.rs
+
+/Users/kjenie/Programming/fishies/be/fisheyes/target/debug/deps/libascii-d93ba953280472f3.rlib: /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/lib.rs /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/ascii_char.rs /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/ascii_str.rs /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/ascii_string.rs /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/free_functions.rs
+
+/Users/kjenie/Programming/fishies/be/fisheyes/target/debug/deps/ascii-d93ba953280472f3.d: /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/lib.rs /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/ascii_char.rs /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/ascii_str.rs /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/ascii_string.rs /Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/free_functions.rs
+
+/Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/lib.rs:
+/Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/ascii_char.rs:
+/Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/ascii_str.rs:
+/Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/ascii_string.rs:
+/Users/kjenie/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ascii-1.1.0/src/free_functions.rs:
